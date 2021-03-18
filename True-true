@@ -1,0 +1,502 @@
+Process finished with exit code 0
+[
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "commit_num": 97,
+  "value": 97
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "commit_num": 305,
+  "value": 305
+ }
+]
+[
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "function_num": 6037,
+  "value": 6037
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "function_num": 37019,
+  "value": 37019
+ }
+]
+[
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "loc": 85913,
+  "value": 85913
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "loc": 254092,
+  "value": 254092
+ }
+]
+[
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "share_loc": 0.025851845900574825,
+  "value": 0.025851845900574825
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "share_loc": 0.07645812890445984,
+  "value": 0.07645812890445984
+ }
+]
+[
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-19",
+  "commit_num": 1
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-20",
+  "commit_num": 38
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-22",
+  "commit_num": 3
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-23",
+  "commit_num": 2
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-24",
+  "commit_num": 3
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-25",
+  "commit_num": 2
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-26",
+  "commit_num": 1
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-03-01",
+  "commit_num": 14
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-03-02",
+  "commit_num": 1
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-03-03",
+  "commit_num": 13
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-03-04",
+  "commit_num": 4
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-03-05",
+  "commit_num": 15
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-19",
+  "commit_num": 2
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-20",
+  "commit_num": 39
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-22",
+  "commit_num": 8
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-23",
+  "commit_num": 4
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-24",
+  "commit_num": 4
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-25",
+  "commit_num": 3
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-26",
+  "commit_num": 5
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-27",
+  "commit_num": 1
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-03-01",
+  "commit_num": 62
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-03-02",
+  "commit_num": 29
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-03-03",
+  "commit_num": 60
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-03-04",
+  "commit_num": 37
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-03-05",
+  "commit_num": 51
+ }
+]
+[
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-19",
+  "loc": 2
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-20",
+  "loc": 7522
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-22",
+  "loc": 115
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-23",
+  "loc": 13
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-24",
+  "loc": 647
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-25",
+  "loc": 21
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-26",
+  "loc": 1268
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-03-01",
+  "loc": 69687
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-03-02",
+  "loc": 22
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-03-03",
+  "loc": 541
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-03-04",
+  "loc": 1465
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-03-05",
+  "loc": 4610
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-19",
+  "loc": 100
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-20",
+  "loc": 7774
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-22",
+  "loc": 510
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-23",
+  "loc": 220
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-24",
+  "loc": 698
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-25",
+  "loc": 233
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-26",
+  "loc": 1672
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-27",
+  "loc": 34
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-03-01",
+  "loc": 141986
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-03-02",
+  "loc": 33911
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-03-03",
+  "loc": 18863
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-03-04",
+  "loc": 34224
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-03-05",
+  "loc": 13867
+ }
+]
+[
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "developer_num": 5,
+  "value": 5
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "developer_num": 11,
+  "value": 11
+ }
+]
+[
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "dev_equivalent": 10331,
+  "value": 10331
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "dev_equivalent": 29592,
+  "value": 29592
+ }
+]
+[
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "dev_value": 0.017802590265425227,
+  "value": 0.017802590265425227
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "dev_value": 0.0776434105579665,
+  "value": 0.0776434105579665
+ }
+]
+[
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "dev_value_every_share_loc": 0.6886390369915295,
+  "value": 0.6886390369915295
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "dev_value_every_share_loc": 1.0155023628028854,
+  "value": 1.0155023628028854
+ }
+]
+[
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "dev_value_robustness": 0.0649163223351471,
+  "value": 0.0649163223351471
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "dev_value_robustness": 0.149775958264698,
+  "value": 0.149775958264698
+ }
+]
+[
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "dev_equivalent_every_developer": 2066.2,
+  "value": 2066.2
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "dev_equivalent_every_developer": 2690.181818181818,
+  "value": 2690.181818181818
+ }
+]
+[
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-19",
+  "dev_equivalent": 3
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-20",
+  "dev_equivalent": 5212
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-22",
+  "dev_equivalent": 77
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-23",
+  "dev_equivalent": 23
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-24",
+  "dev_equivalent": 796
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-25",
+  "dev_equivalent": 3
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-02-26",
+  "dev_equivalent": 397
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-03-01",
+  "dev_equivalent": 958
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-03-02",
+  "dev_equivalent": 43
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-03-03",
+  "dev_equivalent": 1202
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-03-04",
+  "dev_equivalent": 164
+ },
+ {
+  "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
+  "date": "2021-03-05",
+  "dev_equivalent": 1453
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-19",
+  "dev_equivalent": 100
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-20",
+  "dev_equivalent": 5513
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-22",
+  "dev_equivalent": 782
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-23",
+  "dev_equivalent": 356
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-24",
+  "dev_equivalent": 813
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-25",
+  "dev_equivalent": 320
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-26",
+  "dev_equivalent": 824
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-02-27",
+  "dev_equivalent": 116
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-03-01",
+  "dev_equivalent": 6973
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-03-02",
+  "dev_equivalent": 6621
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-03-03",
+  "dev_equivalent": 2935
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-03-04",
+  "dev_equivalent": 2156
+ },
+ {
+  "department_id": "aadc611f-831d-402b-bcf7-6a47e49b2f5e",
+  "date": "2021-03-05",
+  "dev_equivalent": 2083
+ }
+]
