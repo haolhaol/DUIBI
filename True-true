@@ -373,6 +373,11 @@ Process finished with exit code 0
   "value": 2690.181818181818
  }
 ]
+
+
+Ran 1 test in 17.613s
+
+OK
 [
  {
   "department_id": "57f8ca3b-4cfb-4771-ab20-6745aa543e22",
